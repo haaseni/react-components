@@ -1,0 +1,1 @@
+export const hipsumApiUrl = 'https://hipsum.co/api/'
