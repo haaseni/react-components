@@ -17,7 +17,7 @@
     "react-dom": "^16.13.1",
     "react-fontawesome": "^1.7.1",
     "react-infinite": "^0.13.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "5.0.1",
     "typescript": "^3.9.5",
     "yargs-parser": "^18.1.3"
